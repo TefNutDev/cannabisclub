@@ -1,31 +1,40 @@
+import img1 from '../public/assets/thcL19.jpg'
+import img2 from '../public/assets/thcL13.jpg'
+import img3 from '../public/assets/thcL14.jpg'
+import img4 from '../public/assets/thcL15.jpg'
+import img5 from '../public/assets/thcL17.jpg'
+import img6 from '../public/assets/membercard.jpg'
+
+
+
 
 export const SliderData = [
     {
         image:
-        '/public/assets/thcL19.jpg'
+        {img1}
     },
     {
         image:
-        '/public/assets/thcL13.jpg'
-    },
-
-    {
-        image:
-        '/public/assets/thcL14.jpg'
+        {img2}
     },
 
     {
         image:
-        '/public/assets/thcL15.jpg'
+        {img3}
     },
 
     {
         image:
-        '/public/assets/thcL17.jpg'
+        {img4}
+    },
+
+    {
+        image:
+        {img5}
     },
     {
         image:
-        '/../public/assets/membercard.jpg'
+        {img6}
     },
 
 
