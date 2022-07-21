@@ -1,9 +1,9 @@
-import img1 from '../public/assets/thcL19.jpg'
-import img2 from '../public/assets/thcL13.jpg'
-import img3 from '../public/assets/thcL14.jpg'
-import img4 from '../public/assets/thcL15.jpg'
-import img5 from '../public/assets/thcL17.jpg'
-import img6 from '../public/assets/membercard.jpg'
+import img1 from '/public/assets/thcL19.jpg'
+import img2 from '/public/assets/thcL13.jpg'
+import img3 from '/public/assets/thcL14.jpg'
+import img4 from '/public/assets/thcL15.jpg'
+import img5 from '/public/assets/thcL17.jpg'
+import img6 from '/public/assets/membercard.jpg'
 
 
 
