@@ -7,9 +7,9 @@ const nextConfig = {
 module.exports = {
   images: {
     domains: [
-      'images.unsplash.com','flowbite.com','github.com'
+      'images.unsplash.com','flowbite.com','github.com',
     ]
-  },
+  }
 
 
-};
+}
