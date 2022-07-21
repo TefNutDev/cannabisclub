@@ -17,7 +17,7 @@ const Info = () => {
             <h2 className="text-3xl font-bold sm:text-4xl">THC Lanzarote</h2>
 
             <h4 className="mt-4 text-gray-300">
-              A small group of marijuana enthusiasts who can't stop growing.
+              A small group of marijuana enthusiasts who can&apos;t stop growing.
               Find our cannabis social club and cannabis dispensary in Puerto
               del Carmen, Lanzarote.
             </h4>
@@ -69,7 +69,7 @@ const Info = () => {
               <h3 className="mt-4 text-xl font-bold text-white">Chill Out</h3>
 
               <h4 className="mt-1 text-sm text-gray-300">
-                Comfort is key when you're smoking your favourite herb. We have
+                Comfort is key when you&apos;re smoking your favourite herb. We have
                 multiple seating sections with beanbags, swinging chairs and
                 sofas. Enjoy your cannabis in our top of the range Cannabis
                 Club.
@@ -122,7 +122,7 @@ const Info = () => {
               </h3>
 
               <h4 className="mt-1 text-sm text-gray-300">
-                Brand new Ps5s, Pool Tables, Wifi, HD TV's. Enjoy every moment
+                Brand new PS5s, Pool Tables, Wifi, HD TV&apos;s. Enjoy every moment
                 of your time at our club!
               </h4>
             </div>
