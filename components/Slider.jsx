@@ -42,7 +42,7 @@ const Slider = ({ slides }) => {
                 size={50}
               />
               {index === current && (
-                <img
+                <Image
                   src={slide.image}
                   alt="/"
                   width="1440"
