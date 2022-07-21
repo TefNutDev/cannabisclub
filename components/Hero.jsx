@@ -16,7 +16,7 @@ const Hero = ({ heading, message }) => {
         </h2>
         <div className="mb-5 items-center flex justify-center align-middle hover:scale-110 ease-in duration-300">
           <Image
-            src="/public/assets/THCLogo.png"
+            src={logoM}
             alt="main logo"
             width={170}
             height={170}
