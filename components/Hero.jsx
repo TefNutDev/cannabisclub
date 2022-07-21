@@ -8,7 +8,7 @@ const Hero = ({ heading, message }) => {
   return (
     <div className="flex items-center justify-center h-screen w-screen bg-fixed bg-center bg-cover custom-img">
       {/* Overlay */}
-      <div className="absolute top-0 left-0 right-0 bottom-[-15px] bg-black/60 z-[2]" />
+      <div className="absolute top-0 left-0 right-0 bottom-0 bg-black/60 z-[2]" />
 
       <div className=" text-white z-[2]  mt-[-2rem] items-center ">
         <h2 className="mb-5 text-5xl sm:text-7xl md:text-[100px] text-center font-weight-900">
