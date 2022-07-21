@@ -1,7 +1,7 @@
 import Link from "next/link";
 import React from "react";
 import { GrInstagram } from "react-icons/gr";
-import { logoM } from "/public/assets/THCLogo.png";
+import logoM from "/public/assets/THCLogo.png";
 import Image from "next/image";
 
 const Hero = ({ heading, message }) => {
