@@ -12,7 +12,7 @@ import { SliderData } from "../components/SliderData";
 
 export default function Home() {
   return (
-    <>
+    <div>
       <Head>
         <title>Cannabis Club</title>
         <meta name="description" content="Irish Owned Cannabis Club in Lanzarote, Canary Islands, Spain." />
@@ -27,6 +27,6 @@ export default function Home() {
       <Instagram />
       <Map />
       
-    </>
+    </div>
   );
 }
