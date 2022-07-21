@@ -3,6 +3,7 @@ import { SliderData } from "./SliderData";
 import Image from "next/image";
 import { FaArrowCircleLeft, FaArrowCircleRight } from "react-icons/fa";
 
+
 const Slider = ({ slides }) => {
   const [current, setCurrent] = useState(0);
   const length = slides.length;
@@ -41,7 +42,7 @@ const Slider = ({ slides }) => {
                 size={50}
               />
               {index === current && (
-                <Image
+                <img
                   src={slide.image}
                   alt="/"
                   width="1440"
